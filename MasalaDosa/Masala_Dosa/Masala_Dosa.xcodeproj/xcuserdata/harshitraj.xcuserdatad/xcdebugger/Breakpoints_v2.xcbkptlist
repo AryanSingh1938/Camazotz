@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7DB29C7A-C51F-4B36-A2DA-9D316A3B4C09"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5B56466-1334-4CA7-8F06-15577AECB208"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Masala_Dosa/ContentView2.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "fetchWeather(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 870d0f8a4be8e4bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 870d0f8a4be8e4bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 7c99657c741328a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 7c99657c741328a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 5835bb361e3a6ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 5835bb361e3a6ca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - abffe7d3135612a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - abffe7d3135612a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 35c610e80862b0a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+               <Location
+                  uuid = "F5B56466-1334-4CA7-8F06-15577AECB208 - 35c610e80862b0a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Masala_Dosa.WeatherViewModel.fetchWeather(for: Swift.String) async -&gt; ()"
+                  moduleName = "Masala_Dosa.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshitraj/Downloads/Camazotz/MasalaDosa/Masala_Dosa/Masala_Dosa/ContentView2.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
